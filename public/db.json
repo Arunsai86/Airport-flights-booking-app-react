@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "United Airlines",
+    "time": { "pickup": "12:10", "dropoff": "02:10" },
+    "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2020/11/United-Airlines-Logo-1954-1960.png",
+    "price": "14,000"
+  },
+  {
+    "id": 2,
+    "name": "Emirates",
+    "time": { "pickup": "10:00", "dropoff": "12:00" },
+    "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2020/03/Emirates-Logo.png",
+    "price": "13,700"
+  },
+
+  {
+    "id": 3,
+    "name": "American Airlines",
+    "time": { "pickup": "21:00", "dropoff": "23:00" },
+    "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.1spekvRlUs6WOnDnzMmglAHaFG&pid=Api&P=0&h=180",
+    "price": "15,406"
+  },
+
+  {
+    "id": 4,
+    "name": "Singapore Airlines",
+    "time": { "pickup": "01:45", "dropoff": "03:40" },
+    "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.PNHeg8rY17XjIAGPoYGEnAHaHa&pid=Api&P=0&h=180",
+    "price": "14,080"
+  },
+
+  {
+    "id": 5,
+    "name": "Emirates",
+    "time": { "pickup": "02:00", "dropoff": "04:00" },
+    "thumbnailUrl": "https://logos-world.net/wp-content/uploads/2020/03/Emirates-Logo.png",
+    "price": "13,560"
+  },
+
+  {
+    "id": 6,
+    "name": "Indigo",
+    "time": { "pickup": "09:20", "dropoff": "11:20" },
+    "thumbnailUrl": "https://www.adgully.com/img/800/201911/1200px-indigo_logo-svg.png.jpg",
+    "price": "12,100"
+  },
+  {
+    "id": 7,
+    "name": "American Airlines",
+    "time": { "pickup": "10:00", "dropoff": "12:00" },
+    "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.1spekvRlUs6WOnDnzMmglAHaFG&pid=Api&P=0&h=180",
+    "price": "16,400"
+  },
+  {
+    "id": 8,
+    "name": "Singapore Airlines",
+    "time": { "pickup": "16:30", "dropoff": "18:30" },
+    "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.PNHeg8rY17XjIAGPoYGEnAHaHa&pid=Api&P=0&h=180",
+    "price": "14,400"
+  },
+  {
+    "id": 9,
+    "name": "Singapore Airlines",
+    "time": { "pickup": "18:00", "dropoff": "20:00" },
+    "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.PNHeg8rY17XjIAGPoYGEnAHaHa&pid=Api&P=0&h=180",
+    "price": "15,699"
+  },
+  {
+    "id": 10,
+    "name": "Indigo",
+    "time": { "pickup": "21:45", "dropoff": "23:45" },
+    "thumbnailUrl": "https://www.adgully.com/img/800/201911/1200px-indigo_logo-svg.png.jpg",
+    "price": "12,050"
+  }
+]

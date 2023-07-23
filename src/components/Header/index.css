@@ -1,0 +1,36 @@
+nav {
+  height: 65px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 100px;
+  font-family: "Roboto";
+  background-color: #ffffff;
+}
+.logo {
+  width: 60px;
+  height: 50px;
+}
+.menu-container {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  justify-content: space-around;
+}
+.menu-item {
+  list-style: none;
+}
+.login-btn {
+  width: 80px;
+  height: 25px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
